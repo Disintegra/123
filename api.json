@@ -1,18 +1,18 @@
 {
-  "mastery_key_eduardo_tralaleylo1": {
+  "1": {
     "hwid": "2bbcd3422c062052efac2d60eadaa280c85ef62d1fc6b05f2d054916f60b48ce",
     "expires": "2099-06-05 23:59:59",
-    "Nick": "Povelitel_Mira1"
+    "Nick": "Artem"
   },
-  "mastery_key_eduardo_tralaleylo": {
+  "2": {
     "hwid": "f2c27f043f4e60c8bf2ad6f9839d59d168d34a4bd97a111eda5e6e0684ea0104",
     "expires": "2099-06-05 23:59:59",
-    "Nick": "Povelitel_Mira"
+    "Nick": "Vitya"
   },
   "f10ab59a1aeb26685fe5227f21376c81": {
-    "hwid": "4a6e6c2f3536580468ff4c6eef4c09a51073f8b633fb9987fa2d73e57089f3a7",
+    "hwid": "4eb41250efb9413bf1f4a024f7924ea22e3c770b9c8eaa964d7d26b6100857db",
     "expires": "2099-06-05 23:59:59",
-    "Nick": "Architektor"
+    "Nick": "NoutArtem"
   },
   "63f4945d921d599f27ae4fdf5bada3f1": {
     "hwid": "8e0547d915fa3ea1c722393e37b278b861c185ebdf21035f5deff57757b00f7c",
